@@ -1,0 +1,22 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "url": "node ."
+  },
+  "keywords": [],
+  "author": "Goat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Timo-Schuurman/Discordbot/issues"
+  },
+  "homepage": "https://github.com/Timo-Schuurman/Discordbot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
